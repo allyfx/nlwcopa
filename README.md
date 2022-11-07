@@ -17,6 +17,9 @@
 
 ## 🔑 Techs
 - Typescript
+- React Native
+- Expo
+- React JS
 - NodeJs
 - Prisma
 - SQLite
